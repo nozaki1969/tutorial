@@ -10,5 +10,9 @@
   },
   "dependencies": {
     "astro": "^5.15.3"
+  },
+  "devDependencies": {
+    "@markuplint/astro-parser": "^4.6.21",
+    "markuplint": "^4.13.1"
   }
 }
